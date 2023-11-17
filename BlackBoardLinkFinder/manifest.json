@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "BBScraper",
+  "version": "1.0",
+
+  "description": "Gets the links to download videos from blackboard",
+  "permissions": ["webRequest", "<all_urls>"],
+  "background": {
+    "scripts": ["BBLinkFinder.js"]
+  }
+}
+
