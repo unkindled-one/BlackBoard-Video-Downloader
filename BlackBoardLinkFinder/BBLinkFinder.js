@@ -1,4 +1,3 @@
-console.log("Starting extension");
 function printURL(requestDetails) {
   if (!requestDetails.url.includes("json") && requestDetails.url.includes("cdnapisec")) {
     console.log(requestDetails.url);
