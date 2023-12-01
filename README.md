@@ -16,7 +16,7 @@ select any file in the `BlackBoardLinkFinder` folder and it will start the exten
 you just opened, this is where the output from the extension will go.
 3. Log into BlackBoard as normal. Navigate to where the videos you want to download are stored.
 4. For each video you want to download, click play and wait for it to load.
-5. When you are done clicking all the videos, right click on the extension inspect window and select `Save All Messages to File`.\ 
+5. When you are done clicking all the videos, right click on the extension inspect window and select `Save All Messages to File`.
 ![Screenshot 2023-11-17 072834](https://github.com/unkindled-one/BlackBoard-Video-Downloader/assets/87220291/5f740439-09a9-44d7-ae21-9b3fde252794)
 6. Go into cleaner.py and replace the path to data to where you saved the messages and the download path to where you want to download the videos.
 7. Run `python cleaner.py` and your videos will be downloaded.
