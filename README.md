@@ -19,5 +19,5 @@ you just opened, this is where the output from the extension will go.
 5. When you are done clicking all the videos, right click on the extension inspect window and select `Save All Messages to File`.
 ![Screenshot 2023-11-17 072834](https://github.com/unkindled-one/BlackBoard-Video-Downloader/assets/87220291/5f740439-09a9-44d7-ae21-9b3fde252794)
 6. Go into cleaner.py and replace the path to data to where you saved the messages and the download path to where you want to download the videos.
-7. Run `python cleaner.py` and your videos will be downloaded.
+7. Run `python BBVideoDownloader.py [path_to_data] [path_to_download_folder]` and your videos will be downloaded.
 8. (Optional) Rename the files to have more meaningful names than their internal IDs.
