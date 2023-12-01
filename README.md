@@ -3,6 +3,7 @@ This is a workaround I used to download Kaltura videos off of BlackBoard on Fire
 
 # Dependencies
 [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+[ffmpeg](https://ffmpeg.org/)
 
 # Usage
 ## Overview 
